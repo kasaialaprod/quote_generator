@@ -22,6 +22,7 @@ export function Quote() {
     { text: "The game is gonna test you, never fold. Stay ten toes down.", author: "Nispey Hussle - Victory Lap" },
     { text: "Ownership is everything. Own your mind. Mind your own.", author: "Nispey Hussle" },
     { text: "Create a plan and then attack it — a dream without a plan is a wish.", author: "Nispey Hussle" },
+    { text: "What ?", author: "Joe Biden" },
     { text: "When your intentions are pure you don’t lose anyone, they lose you.", author: "Nispey Hussle" }
   ];
 
